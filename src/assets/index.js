@@ -22,13 +22,16 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.png";
 
 import cooing from "./company/cooing.png";
-import gochat247 from "./company/gochat247.png";
+import gochat247 from "./company/GoChat247.png";
 import expleo from "./company/expleo.png";
 import sehatech from "./company/sehatech.png"
+import enbd from "./company/enbd.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
+import gocar from "./gocar.png";
+import gawla from "./gawla.jpeg";
+import booking  from "./booking.jpg";
+import admin from "./admin.png"
 
 export {
   logo,
@@ -56,7 +59,9 @@ export {
   sehatech,
   gochat247,
   expleo,
-  carrent,
-  jobit,
-  tripguide,
+  enbd,
+  gocar,
+  gawla,
+  admin,
+  booking
 };
