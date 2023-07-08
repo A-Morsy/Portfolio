@@ -22,9 +22,7 @@ const Hero = () => {
             <br className="sm:block hidden" /> with the artistry of
             cinematography music and sports
             <br className="sm:block hidden" />
-            to create captivating experiencesto create captivating
-            <br className="sm:block hidden" />
-            experiences
+            to create captivating experiences
           </p>
         </div>
       </div>
