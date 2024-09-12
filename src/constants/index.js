@@ -116,21 +116,8 @@ import {
     },
   ];
   
-  const experiences = [
-    {
-      title: "Java Developer - Fintech",
-      company_name: "GoChat247",
-      icon: gochat247,
-      iconBg: "#383E56",
-      date: "July 2018 - August 2018",
-      points: [
-        "Developed a Java-based financial calculator as a Full Stack Developer.",
-        "Enabled the finance team to generate monthly statistics on revenue, expenses, cancelled transactions (debit and credit), and profit.",
-        "Provided managers with insights into total transactions, transaction types, and amounts, as well as client details.",
-        "Implemented clustering techniques to enhance data analysis and provide deeper insights.",
-        "Empowered the team to make informed decisions, target a wider audience, and optimize financial operations.",
-        ],
-    },
+ const experiences = [
+
     {
       title: "IT Department - Intern",
       company_name: "Emirates NBD",
@@ -146,11 +133,25 @@ import {
         ],
     },
     {
+      title: "Java Developer - Fintech",
+      company_name: "GoChat247",
+      icon: gochat247,
+      iconBg: "#383E56",
+      date: "July 2020 - January 2021",
+      points: [
+        "Developed a Java-based financial calculator as a Full Stack Developer.",
+        "Enabled the finance team to generate monthly statistics on revenue, expenses, cancelled transactions (debit and credit), and profit.",
+        "Provided managers with insights into total transactions, transaction types, and amounts, as well as client details.",
+        "Implemented clustering techniques to enhance data analysis and provide deeper insights.",
+        "Empowered the team to make informed decisions, target a wider audience, and optimize financial operations.",
+        ],
+    },
+    {
       title: "Full-Stack Engineer - Blockchain",
       company_name: "Expleo Group",
       icon: expleo,
       iconBg: "#E6DEDD",
-      date: "January 2021 - February 2022",
+      date: "January 2021 - January 2022",
       points: [
         "Developed and designed a cutting-edge communication software for Expleo Group, leveraging my Full-Stack development skills in React, Node.js, GoLang, Docker, Kafka and Hyperledger Fabric.",
         "Utilized blockchain technology, specifically Hyperledger Fabric from the Linux Foundation, to create a secure and decentralized network for Expleo Group's B2B workflows.",
@@ -164,7 +165,7 @@ import {
       company_name: "SehaTech",
       icon: sehatech,
       iconBg: "#383E56",
-      date: "July 2021 - December 2023",
+      date: "January 2022 - April 2022",
       points: [
         "Played a pivotal role as a Mobile Developer at SehaTech, utilizing Flutter framework to successfully develop and launch a Minimum Viable Product (MVP) mobile app.",
         "The app's exceptional performance and functionality led to the company securing angel funding, validating its potential in the market.",
@@ -177,7 +178,7 @@ import {
       company_name: "Nawy",
       icon: cooing,
       iconBg: "#E6DEDD",
-      date: "March 2023 - Present",
+      date: "April 2022 - April 2024",
       points: [
         "As a Full-Stack Engineer at Nawy, I contributed in enhancing the CRM system by addressing bugs, optimizing performance, and implementing new features for our sales agents and managers.",
         "Collaborate closely with cross-functional teams to develop and deploy new code, ensuring seamless integration and successful project outcomes.",
